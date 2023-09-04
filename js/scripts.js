@@ -8,6 +8,7 @@ function handleSubmit(e) {
     
 }
 
+// new XMLHttpRequest()
 // http.open(method,url)
 // http.send()
 // http.onerror = () => {}
